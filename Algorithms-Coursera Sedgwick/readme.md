@@ -1,7 +1,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/69343655/159583575-506e329a-26ae-492f-a057-5d53f621814e.png)  **Part I: elementary data structures, sorting, and searching algorithms**
-#### [This course by Kevin Wayne and Robert Sedgewick, provided for free by Princeton University covers the essential information about algorithms and data structures,with emphasis on applications and scientific performance analysis of Java implementations.](https://www.coursera.org/learn/algorithms-part1 "This course by Kevin Wayne and Robert Sedgewick, provided for free by Princeton University covers the essential information about algorithms and data structures,with emphasis on applications and scientific performance analysis of Java implementations.")
+#### [This course by Kevin Wayne and Robert Sedgewick, provided for free by Princeton University covers the essential information about algorithms and data structures,with emphasis on applications and scientific performance analysis of Java implementations.](https://www.coursera.org/learn/algorithms-part1 "This course by Kevin Wayne and Robert Sedgewick, provided for free by Princeton University covers the essential information about algorithms and data structures,with emphasis on applications and scientific performance analysis of Java implementations.") 
 
 ## Exercises and Lectures:
 
